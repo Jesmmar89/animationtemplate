@@ -1,0 +1,51 @@
+header{
+	position: fixed;
+	background-color: red;
+	width: 250px;
+	height: 600px;
+}
+section{
+	margin-left: 300px;
+	width: 900px;
+}
+.sideBar{
+    display: block;
+    padding:15px;
+    background-color: red;
+}
+a{
+	text-decoration: none;
+	color:white;
+}
+#Homme:hover, #Showcase:hover, #Services:hover, #Designers:hover, #Packages:hover, #Contact:hover{
+	background-color: white;
+	color: black;
+}
+.imgs{
+	width: 450px;
+	height: 250px;
+	padding-bottom: 20px;
+}
+.designersImgs{
+	width: 150px;
+	height: 100px;
+	margin-left: 10%;
+}
+.basicPackage, .proPackage{
+    border-bottom:2px;
+    border-style: solid;
+    background-color: MintCream;
+}
+h2{
+	padding: 20px;
+	font-weight: bold;
+	color:red;
+}
+h3{
+	padding: 25px;
+	color:white;
+}
+p{
+	color:black;
+	padding-bottom: 10px;
+}
